@@ -1,4 +1,3 @@
-
 A Nighttime Bingo
 =================
 
@@ -34,4 +33,4 @@ Files
 License and copylight
 ---------------------
 
-Copyright (c) 2012 Shin'ya Ueoka. Src2TeX is licensed under MIT lisence.
+Copyright (c) 2012 Shin'ya Ueoka. Nighttime Bingo is licensed under MIT lisence.
